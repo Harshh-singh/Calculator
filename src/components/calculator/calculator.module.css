@@ -1,0 +1,29 @@
+.body{
+    margin: 0;
+}
+.calculator{
+    padding-top: 2vh;
+    padding-bottom: 2vh;
+    margin: 10vh auto;
+    width: 23%;
+    height: auto;
+    border-radius: 10px;
+    background-color: #3f544c;
+    color: white;
+}
+.screen{
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    align-items: end;
+    height: 20vh;
+    padding: 2vw;
+    overflow: hidden;
+}
+.digits{
+    font-size: 50px;
+}
+.total{
+    font-size: 50px;
+
+}

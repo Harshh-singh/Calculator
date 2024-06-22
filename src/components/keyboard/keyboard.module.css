@@ -1,0 +1,52 @@
+.keyboard{
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.btn1{
+    height: 9vh;
+    width: 4.5vw;
+    border-radius: 10px;
+    border: none;
+    margin: 5px;
+    background-color: #e3eae8;
+    color: #FFFFFF;
+    font-size: 30px;
+    font-weight: 600;
+}
+.btn2{
+    height: 9vh;
+    width: 4.5vw;
+    border-radius: 10px;
+    border: none;
+    margin: 5px;
+    background-color: #49a88e;
+    color: white;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.btn3{
+    height: 9vh;
+    width: 4.5vw;
+    border-radius: 10px;
+    border: none;
+    margin: 5px;
+    background-color: #629386;
+    color: white;
+    font-size: 30px;
+    font-weight: 600;
+}
+.zerobtn{
+    height: 9vh;
+    width: 9.5vw;
+    border-radius: 10px;
+    border: none;
+    margin: 5px;
+    background-color: #49a88e;
+    color: #FFFFFF;
+    font-size: 25px;
+    font-weight: 600;
+}
